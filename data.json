@@ -1,0 +1,68 @@
+[
+  {
+    "band": "Five Finger Death Punch",
+    "formedin": 2005,
+    "origin": "Las Vegas, Nevada, USA",
+    "albums": [
+      {
+        "title": "The Way of the Fist",
+        "year": 2007,
+        "tracks": 13
+      },
+      {
+        "title": "War Is the Answer",
+        "year": 2009,
+        "tracks": 14
+      },
+      {
+        "title": "American Capitalist",
+        "year": 2011,
+        "tracks": 13
+      }
+    ]
+  },
+  {
+    "band": "Marilyn Manson",
+    "formedin": 1989,
+    "origin": "Fort Lauderdale, Florida, USA",
+    "albums": [
+      {
+        "title": "Antichrist Superstar",
+        "year": 1996,
+        "tracks": 16
+      },
+      {
+        "title": "Mechanical Animals",
+        "year": 1998,
+        "tracks": 14
+      },
+      {
+        "title": "Holy Wood (In the Shadow of the Valley of Death)",
+        "year": 2000,
+        "tracks": 19
+      }
+    ]
+  },
+  {
+    "band": "Texas Hippie Coalition",
+    "formedin": 2004,
+    "origin": "Denison, Texas, USA",
+    "albums": [
+      {
+        "title": "Pride of Texas",
+        "year": 2008,
+        "tracks": 13
+      },
+      {
+        "title": "Rollin'",
+        "year": 2010,
+        "tracks": 14
+      },
+      {
+        "title": "Dark Side of Black",
+        "year": 2016,
+        "tracks": 10
+      }
+    ]
+  }
+]
